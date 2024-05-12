@@ -1,0 +1,16 @@
+.nav-link{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 60px;
+    padding: 5px;
+    margin: 0 6px 6px;
+    background: rgba(142, 142, 199, 0.596);
+    text-decoration: none;
+    text-align: center;
+    font-size: min(10vw, 15px) ;
+    color: white;
+}
+
+.active {
+    color: rgb(35, 37, 168);
+}
